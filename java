@@ -14,6 +14,8 @@ Scanner in = new Scanner (System.in);
 }
 
 
+
+
 public class idadepor{
 public static void main(String[] args) {
 Scanner in = new Scanner (System.in);
@@ -55,6 +57,9 @@ System.out.println ("O peso da pessoa mais velha é" +pesomaisvelho);
 System.out.println ("O peso da pessoa mais nova é" +pesomaisnovo);
 }
 }
+{
+
+
 
 		import java.util.Scanner;
 		public class iadadeeta {
